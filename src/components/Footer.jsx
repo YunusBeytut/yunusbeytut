@@ -52,11 +52,11 @@ export function Footer() {
                         <div className="footer-contact">
                             <p className="contact-info-item">
                                 <Mail className="w-4 h-4" />
-                                yunus@example.com
+                                yunusbeytut0@gmail.com
                             </p>
                             <p className="contact-info-item">
                                 <Phone className="w-4 h-4" />
-                                {"+90 555 123 4567"}
+                                {"+90 537 585 0682"}
                             </p>
                             <p className="contact-info-item">
                                 <MapPin className="w-4 h-4" />
