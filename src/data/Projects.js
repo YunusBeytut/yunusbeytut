@@ -31,24 +31,27 @@ export const projects = [
     },
     {
         id: 2,
-        title: "Quiz App",
-        description: " Kullanıcı dostu arayüzüyle tam responsive soru çözme deneyimi 🚀",
-        image: "/projects/quizstart.png",
+        title: "Modern Blog Platformu",
+        description: " 💻 Modern Blog Platformu – React ile Geliştirilmiş, Responsive ve Hızlı",
+        image: "/projects/blogAnaSayfa.png",
         gallery: [
-            "/projects/soru.png",
-            "/projects/sonuc.png",
+            "/projects/blogAbout.png",
+            "/projects/blogContact.png",
+            "/projects/blogServices.png"
         ],
-        technologies: ["LocaStorage", "CSS", "JavaScript"],
+        technologies: ["React", "Modern CSS", "JavaScript", "Netlify"],
         features: [
-            "LocalStorage ile puanları kaydetme",
-            "Sayaç özelliği ile zamana karşı yarış",
-            "Responsive tasarım",
-            "Kategori bazlı sorular"
+            "Tamamen responsive tasarım",
+            "Kategorilere göre içerik filtreleme",
+            "Hızlı sayfa geçişleri ve asenkron veri yükleme",
+            "SEO dostu meta etiketler",
+            "Minimalist ve modern UI/UX tasarımı"
         ],
-        details: "Modern bir quiz deneyimi sunan bu projede React ve Modern CSS kullanarak kullanıcı dostu bir arayüz geliştirdim. Uygulama, farklı kategorilerde sorular içeriyor ve kullanıcıların bilgi seviyelerini test etmelerini sağlıyor.",
-        demoLink: "https://yunus-beytut-quiz-app.netlify.app/",
-        githubLink: "https://github.com/YunusBeytut/Jedi/tree/main/QuizApp"
+        details: "Kullanıcı deneyimini ön planda tutan, modern tasarıma sahip bir blog sitesi geliştirdim. React.js ve modern CSS kullanarak mobil, tablet ve masaüstü cihazlarda kusursuz çalışan bir yapı oluşturdum. Projede kategori bazlı içerik filtreleme, hızlı yükleme süreleri ve SEO optimizasyonu gibi özelliklere yer verdim. Netlify üzerinden deploy edilerek herkese açık hale getirildi.",
+        demoLink: "https://blog-web-sitesi.netlify.app/",
+        githubLink: "https://github.com/YunusBeytut/Jedi/tree/main/Blog%20Website"
     },
+
     {
         id: 3,
         title: "Kişisel Website",
@@ -67,6 +70,26 @@ export const projects = [
         ],
         details: "React ve Next.js ile dinamik kullanıcı dostu kişisel portföy sitesi. Projeleri sergileyebilir, iletişim entegrasyonu ve hakkımda kısmı ile kendinizi daha iyi tanıtabilirsiniz",
         githubLink: "https://github.com/YunusBeytut/Jedi/tree/main/portfolio%20website"
+    },
+    {
+        id: 4,
+        title: "Quiz App",
+        description: " Kullanıcı dostu arayüzüyle tam responsive soru çözme deneyimi 🚀",
+        image: "/projects/quizstart.png",
+        gallery: [
+            "/projects/soru.png",
+            "/projects/sonuc.png",
+        ],
+        technologies: ["LocaStorage", "CSS", "JavaScript"],
+        features: [
+            "LocalStorage ile puanları kaydetme",
+            "Sayaç özelliği ile zamana karşı yarış",
+            "Responsive tasarım",
+            "Kategori bazlı sorular"
+        ],
+        details: "Modern bir quiz deneyimi sunan bu projede React ve Modern CSS kullanarak kullanıcı dostu bir arayüz geliştirdim. Uygulama, farklı kategorilerde sorular içeriyor ve kullanıcıların bilgi seviyelerini test etmelerini sağlıyor.",
+        demoLink: "https://yunus-beytut-quiz-app.netlify.app/",
+        githubLink: "https://github.com/YunusBeytut/Jedi/tree/main/QuizApp"
     }
 
 ];
