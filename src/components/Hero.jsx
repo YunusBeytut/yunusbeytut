@@ -75,8 +75,8 @@ export function Hero() {
                         </motion.button>
 
                         <motion.a
-                            href="/cv/Yunusbeytut_CV_Elden.pdf"
-                            download="/cv/Yunusbeytut_CV_Elden.pdf"
+                            href="/cv/Yunusbeytut_Cv_website.pdf"
+                            download="/cv/Yunusbeytut_Cv_website.pdf"
                             className="btn-cv"
                             whileHover={{ scale: 1.05, y: -2 }}
                             whileTap={{ scale: 0.95 }}
