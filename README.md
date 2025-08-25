@@ -1,12 +1,57 @@
-# React + Vite
+# 🌐 Personal Portfolio Website (React + CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Personal Portfolio Website** — a modern, responsive, and stylish platform to showcase my projects, skills, and experience.  
+Built with **React** and styled with **custom CSS**, this portfolio reflects my journey as a **frontend developer**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+👉 [Check out the live portfolio](https://your-demo-link.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 🎨 **Modern UI/UX** – Minimalist design with smooth navigation  
+- 📱 **Responsive Layout** – Optimized for desktop, tablet, and mobile  
+- 🚀 **Projects Showcase** – Dedicated section for my work with images and descriptions  
+- 🧑‍💻 **About Me Section** – Background, skills, and career goals  
+- 📩 **Contact Form** – Integrated form for easy communication  
+- ⚡ **Performance Optimized** – Fast load times and clean code structure  
+- 🔍 **SEO Ready** – Proper meta tags for better search engine visibility  
+
+---
+
+## 🛠️ Technologies
+- **React**  
+- **CSS (custom styling)**  
+- **JavaScript (ES6+)**  
+
+---
+
+# 🌐 Kişisel Portföy Sitesi (React + CSS)
+
+Benim **Kişisel Portföy Siteme** hoş geldiniz — projelerimi, yeteneklerimi ve deneyimlerimi sergilemek için tasarlanmış modern, duyarlı ve şık bir platform.  
+**React** ile geliştirildi, **özelleştirilmiş CSS** ile tasarlandı ve **frontend developer yolculuğumu** yansıtıyor.  
+
+---
+
+## 🌐 Canlı Demo
+👉 [Canlı portföyü incele](https://your-demo-link.com)
+
+---
+
+## ✨ Özellikler
+- 🎨 **Modern UI/UX** – Minimalist tasarım ve akıcı gezinme  
+- 📱 **Duyarlı Tasarım** – Masaüstü, tablet ve mobil cihazlara uyumlu  
+- 🚀 **Projeler Bölümü** – Çalışmalarımı sergileyen görsel ve açıklamalı alan  
+- 🧑‍💻 **Hakkımda Bölümü** – Geçmişim, becerilerim ve kariyer hedeflerim  
+- 📩 **İletişim Formu** – Kolay iletişim için entegre form  
+- ⚡ **Performans Optimizasyonu** – Hızlı yüklenme süreleri ve temiz kod yapısı  
+- 🔍 **SEO Uyumlu** – Arama motorlarında daha görünür olmak için doğru meta etiketleri  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- **React**  
+- **CSS (özelleştirilmiş stil)**  
+- **JavaScript (ES6+)**  
