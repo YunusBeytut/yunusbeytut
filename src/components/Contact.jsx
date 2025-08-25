@@ -41,7 +41,7 @@ export function Contact() {
                                 </div>
                                 <div className="contact-details">
                                     <div className="contact-label">E-posta</div>
-                                    <p className="contact-value">yunusbeytut0@gmail.com</p>
+                                    <p className="contact-value">yunusb.dev@gmail.com</p>
                                 </div>
                             </motion.div>
                             <motion.div className="contact-item" whileHover={{ x: 5 }}>
@@ -58,20 +58,20 @@ export function Contact() {
                         <div className="social-links">
                             <h4>Sosyal Medya</h4>
                             <div className="social-icons">
-                                <motion.a 
-                                    href="https://www.linkedin.com/in/yunusbeytut/" 
+                                <motion.a
+                                    href="https://www.linkedin.com/in/yunusbeytut/"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    whileHover={{ y: -3 }} 
+                                    whileHover={{ y: -3 }}
                                     whileTap={{ scale: 0.95 }}
                                 >
                                     <Linkedin className="w-6 h-6" />
                                 </motion.a>
-                                <motion.a 
-                                    href="https://github.com/YunusBeytut" 
+                                <motion.a
+                                    href="https://github.com/YunusBeytut"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    whileHover={{ y: -3 }} 
+                                    whileHover={{ y: -3 }}
                                     whileTap={{ scale: 0.95 }}
                                 >
                                     <Github className="w-6 h-6" />
