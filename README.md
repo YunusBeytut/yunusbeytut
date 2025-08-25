@@ -6,7 +6,7 @@ Built with **React** and styled with **custom CSS**, this portfolio reflects my 
 ---
 
 ## 🌐 Live Demo
-👉 [Check out the live portfolio](https://your-demo-link.com)
+👉 [Check out the live portfolio](https://yunusbeytut.com/)
 
 ---
 
@@ -36,7 +36,7 @@ Benim **Kişisel Portföy Siteme** hoş geldiniz — projelerimi, yeteneklerimi 
 ---
 
 ## 🌐 Canlı Demo
-👉 [Canlı portföyü incele](https://your-demo-link.com)
+👉 [Canlı portföyü incele](https://yunusbeytut.com/)
 
 ---
 
