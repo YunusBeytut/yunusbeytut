@@ -63,16 +63,13 @@ export function Footer() {
                     <div className="footer-section">
                         <h4 className="footer-title">Sosyal Medya</h4>
                         <div className="footer-social">
-                            <motion.a href="#" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
+                            <motion.a href="https://www.linkedin.com/in/yunusbeytut/" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
                                 <Linkedin className="w-6 h-6" />
                             </motion.a>
-                            <motion.a href="#" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
+                            <motion.a href="https://github.com/YunusBeytut" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
                                 <Github className="w-6 h-6" />
                             </motion.a>
-                            <motion.a href="#" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
-                                <Twitter className="w-6 h-6" />
-                            </motion.a>
-                            <motion.a href="#" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
+                            <motion.a href="https://www.instagram.com/yunusb.dev/" className="social-link" whileHover={{ y: -3, scale: 1.1 }} whileTap={{ scale: 0.95 }}>
                                 <Instagram className="w-6 h-6" />
                             </motion.a>
                         </div>
