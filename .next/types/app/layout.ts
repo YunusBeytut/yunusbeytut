@@ -1,4 +1,4 @@
-// File: C:\Users\yunus\OneDrive\Desktop\website\yunus-portfolio\src\app\layout.jsx
+// File: C:\Users\yunus\Desktop\website\yunus-portfolio\src\app\layout.jsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
