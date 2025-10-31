@@ -23,7 +23,7 @@ I love combining **modern frontend technologies** with **intelligent automation*
 | 🔹 Project | 💬 Description | 🛠️ Tech |
 |-------------|----------------|----------|
 | [**Automation Flow System**](#) | Automated product data extraction & Excel logging using Power Automate Desktop | Power Automate, Excel |
-| [**React Product App**](#) | Dynamic product listing app with routing & responsive UI | React, JS, CSS |
+| [**Personal Portfolio Website – React & Next.js**](https://github.com/YunusBeytut/yunusbeytut) | Created a personal portfolio. Applied modern UI principles with a mobile-responsive design. | React, JS, CSS |
 | [**Form Validator**](#) | Clean and simple form validation project | HTML, JS |
 
 ---
