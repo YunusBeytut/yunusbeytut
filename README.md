@@ -30,9 +30,9 @@ I love combining **modern frontend technologies** with **intelligent automation*
 
 ### 🌍 Portfolio & Contact  
 
-🌐 **Website:** [yourwebsite.com](#)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-📧 **Email:** your.email@example.com  
+🌐 **Website:** [www.yunusbeytut.com](https://yunusbeytut.com/)  
+💼 **LinkedIn:** [linkedin.com/in/yunusbeytut](https://www.linkedin.com/in/yunusbeytut/)  
+📧 **Email:** yunusb.dev@gmail.com 
 
 ---
 
