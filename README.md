@@ -1,57 +1,45 @@
-# 🌐 Personal Portfolio Website (React + CSS)
+# 👋 Hi, I'm Yunus Beytüt  
 
-Welcome to my **Personal Portfolio Website** — a modern, responsive, and stylish platform to showcase my projects, skills, and experience.  
-Built with **React** and styled with **custom CSS**, this portfolio reflects my journey as a **frontend developer**.  
-
----
-
-## 🌐 Live Demo
-👉 [Check out the live portfolio](https://yunusbeytut.com/)
+🎓 I'm a Computer Programming student passionate about building smart and efficient digital solutions.  
+💻 I focus on **Frontend Development** and **RPA (Robotic Process Automation)** — blending automation with modern web technologies.
 
 ---
 
-## ✨ Features
-- 🎨 **Modern UI/UX** – Minimalist design with smooth navigation  
-- 📱 **Responsive Layout** – Optimized for desktop, tablet, and mobile  
-- 🚀 **Projects Showcase** – Dedicated section for my work with images and descriptions  
-- 🧑‍💻 **About Me Section** – Background, skills, and career goals  
-- 📩 **Contact Form** – Integrated form for easy communication  
-- ⚡ **Performance Optimized** – Fast load times and clean code structure  
-- 🔍 **SEO Ready** – Proper meta tags for better search engine visibility  
+## 🌐 About Me  
+
+- 🧠 Constantly learning and improving in **React**, **JavaScript**, and **automation tools** like **Power Automate Desktop** & **UiPath**.  
+- ⚙️ I enjoy automating repetitive tasks and creating **clean, responsive, and functional web interfaces**.  
+- 🚀 My goal is to bridge the gap between **intelligent automation** and **modern web experiences**.  
 
 ---
 
-## 🛠️ Technologies
-- **React**  
-- **CSS (custom styling)**  
-- **JavaScript (ES6+)**  
+## 🛠️ Tech Stack  
+
+**Frontend:** HTML • CSS • JavaScript • React  
+**Automation:** Power Automate Desktop • UiPath  
+**Other Tools:** Git • VS Code • Excel Automation  
 
 ---
 
-# 🌐 Kişisel Portföy Sitesi (React + CSS)
+## 📁 Featured Projects  
 
-Benim **Kişisel Portföy Siteme** hoş geldiniz — projelerimi, yeteneklerimi ve deneyimlerimi sergilemek için tasarlanmış modern, duyarlı ve şık bir platform.  
-**React** ile geliştirildi, **özelleştirilmiş CSS** ile tasarlandı ve **frontend developer yolculuğumu** yansıtıyor.  
-
----
-
-## 🌐 Canlı Demo
-👉 [Canlı portföyü incele](https://yunusbeytut.com/)
+🔹 [**Smart Automation Flow**](#) — Automated data extraction and Excel logging using Power Automate Desktop.  
+🔹 [**React Product App**](#) — A responsive product listing app with routing and dynamic components.  
+🔹 [**Form Validator**](#) — A simple and clean JavaScript project focusing on form handling and validation.  
 
 ---
 
-## ✨ Özellikler
-- 🎨 **Modern UI/UX** – Minimalist tasarım ve akıcı gezinme  
-- 📱 **Duyarlı Tasarım** – Masaüstü, tablet ve mobil cihazlara uyumlu  
-- 🚀 **Projeler Bölümü** – Çalışmalarımı sergileyen görsel ve açıklamalı alan  
-- 🧑‍💻 **Hakkımda Bölümü** – Geçmişim, becerilerim ve kariyer hedeflerim  
-- 📩 **İletişim Formu** – Kolay iletişim için entegre form  
-- ⚡ **Performans Optimizasyonu** – Hızlı yüklenme süreleri ve temiz kod yapısı  
-- 🔍 **SEO Uyumlu** – Arama motorlarında daha görünür olmak için doğru meta etiketleri  
+## 🌍 My Website  
+Check out my portfolio: [**yourwebsite.com**](#)
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
-- **React**  
-- **CSS (özelleştirilmiş stil)**  
-- **JavaScript (ES6+)**  
+## 📫 Connect with Me  
+
+💼 [LinkedIn](#)  
+📧 **your.email@example.com**  
+🧩 Open to collaboration on automation or frontend projects!
+
+---
+
+✨ *“Automate smart. Code clean.”*  
