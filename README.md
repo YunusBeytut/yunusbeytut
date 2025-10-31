@@ -39,10 +39,8 @@ I love combining **modern frontend technologies** with **intelligent automation*
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusbeytut&show_icons=true&theme=tokyonight
-"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusbeytut&show_icons=true&theme=tokyonight
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YunusBeytut&show_icons=true&theme=tokyonight" alt="Yunus Beytüt's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusBeytut&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
