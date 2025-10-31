@@ -23,8 +23,8 @@ I love combining **modern frontend technologies** with **intelligent automation*
 | 🔹 Project | 💬 Description | 🛠️ Tech |
 |-------------|----------------|----------|
 | [**Automation Flow System**](#) | Automated product data extraction & Excel logging using Power Automate Desktop | Power Automate, Excel |
-| [**Personal Portfolio Website – React & Next.js**](https://github.com/YunusBeytut/yunusbeytut) | Created a personal portfolio. Applied modern UI principles with a mobile-responsive design. | React, JS, CSS |
-| [**Form Validator**](#) | Clean and simple form validation project | HTML, JS |
+| [**Personal Portfolio Website **](https://github.com/YunusBeytut/yunusbeytut) | Created a personal portfolio.  Applied modern UI principles with a mobile-responsive design. | React, JS, CSS |
+| [**Student Grade Tracker**](https://github.com/YunusBeytut/Jedi/tree/main/%C3%96%C4%9Frenci%20Takip%20Sistemi) | Developed a dynamic and interactive system where users can manage their courses and grades.  Utilized Firebase Authentication for user login and Firestore for real-time data management. | React & Firebase |
 
 ---
 
