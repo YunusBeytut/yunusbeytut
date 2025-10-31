@@ -5,7 +5,7 @@
 
 ### 🧭 About Me  
 
-I’m a **Computer Programming student** passionate about crafting beautiful user interfaces and building automation solutions.  
+I’m a **Computer Programming graduate** passionate about crafting beautiful user interfaces and building automation solutions.  
 I love combining **modern frontend technologies** with **intelligent automation** to create efficient digital experiences.  
 
 ---
